@@ -1,0 +1,28 @@
+## 📥 Download Power BI File
+The full `Loan Analysis.pbix` file (36 MB) can be downloaded here: [Google Drive Link](https://drive.google.com/file/d/1yFGad5wIXVJJdx1_AgjhAkh8ckab7dz8/view?usp=sharing)
+
+📈 Dashboard Highlights
+
+Loan approval rate comparison across applicant categories.
+
+Effect of income levels on loan amounts.
+
+Risk analysis using credit history data.
+
+Interactive drill-through to explore detailed applicant-level insights.
+
+🛠️ Tools & Technologies
+
+Power BI Desktop
+
+Data Modeling & DAX
+
+Visualization Techniques
+
+📌 Use Cases
+
+Financial institutions for loan decision-making.
+
+Data analysts for exploring customer patterns.
+
+Academic use in data visualization and business analytics projects.
